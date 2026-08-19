@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0016-3sum-closest) |
+| [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -58,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
