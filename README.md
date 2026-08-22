@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Simulation
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
