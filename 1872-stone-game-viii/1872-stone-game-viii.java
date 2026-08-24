@@ -1,3 +1,28 @@
+
+class Solution {
+    public int stoneGameVIII(int[] stones) {
+        int n = stones.length;
+
+        int prefix[] = new int[n];
+
+        prefix[0]=stones[0];
+
+        for(int i=1;i<n;i++){
+            prefix[i]=prefix[i-1]+stones[i];  
+        }
+
+        int best = prefix[n-1];
+
+        for(int i=n-2;i>=1;i--){
+            best=Math.max(best,prefix[i]-best);
+        }
+
+        return best;
+    }
+}
+
+/*
+
 class Solution {
     // Memoization array to store computed results for dynamic programming
     private Integer[] memo;
@@ -30,7 +55,7 @@ class Solution {
      * Dynamic programming function to find the maximum score difference
      * @param currentIndex - the current index where a player can make a move
      * @return the maximum score difference the current player can achieve
-     */
+     
     private int dfs(int currentIndex) {
         // Base case: if we're at the last stone or beyond, 
         // the player must take all remaining stones
@@ -58,3 +83,4 @@ class Solution {
         return memo[currentIndex];
     }
 }
+*/
