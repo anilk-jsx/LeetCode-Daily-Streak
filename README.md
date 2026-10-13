@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1563-stone-game-v](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1563-stone-game-v) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
