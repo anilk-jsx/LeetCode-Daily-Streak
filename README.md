@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1872-stone-game-viii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0217-contains-duplicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3568-minimum-moves-to-clean-the-classroom) |
