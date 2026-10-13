@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0238-product-of-array-except-self) |
 | [1386-cinema-seat-allocation](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1872-stone-game-viii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anilk-jsx/LeetCode-Daily-Streak/tree/master/3904-smallest-stable-index-ii) |
